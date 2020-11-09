@@ -20,12 +20,12 @@
   },
   "backend": {
     "package_name": "backend-sumcoin",
-    "package_revision": "satoshilabs-1",
+    "package_revision": "sumcoinlabs-1",
     "system_user": "sumcoin",
     "version": "0.17.1",
-    "binary_url": "https://download.sumcoin.org/sumcoin-0.17.1/linux/litecoin-0.17.1-x86_64-linux-gnu.tar.gz",
+    "binary_url": "https://download.sumcoin.org/sumcoin-0.17.1/linux/sumcoin-0.17.1-x86_64-linux-gnu.tar.gz",
     "verification_type": "gpg-sha256",
-    "verification_source": "https://download.sumcoin.org/sumcoin-0.17.1/linux/litecoin-0.17.1-linux-signatures.asc",
+    "verification_source": "https://download.sumcoin.org/sumcoin-0.17.1/linux/sumcoin-0.17.1-linux-signatures.asc",
     "extract_command": "tar -C backend --strip 1 -xf",
     "exclude_files": [
       "bin/sumcoin-qt"
