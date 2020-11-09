@@ -57,7 +57,7 @@
       "block_addresses_to_keep": 300,
       "xpub_magic": 27108450,TODO
       "xpub_magic_segwit_p2sh": 28471030,TODO
-      "xpub_magic_segwit_native": 78792518,TODO
+      "xpub_magic_segwit_native": 78792518,
       "slip44": 2,
       "additional_params": {
         "fiat_rates": "coingecko",
@@ -66,7 +66,7 @@
     }
   },
   "meta": {
-    "package_maintainer": "IT",
-    "package_maintainer_email": "it@satoshilabs.com"
+    "package_maintainer": "Electrum-Sum",
+    "package_maintainer_email": "support@electrum-sum.org"
   }
 }
